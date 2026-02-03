@@ -1,0 +1,14 @@
+{
+  "name": "node-red-contrib-activity-light",
+  "version": "1.0.0",
+  "description": "Activity Light Node for Node-RED: Status green on message, red after timeout, shows date & time",
+  "keywords": ["node-red", "activity", "status", "timer"],
+  "author": "phoenix42red",
+  "license": "MIT",
+  "node-red": {
+    "nodes": {
+      "activity-light": "activity-light.js"
+    }
+  },
+  "dependencies": {}
+}
