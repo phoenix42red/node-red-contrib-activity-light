@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Activity Light Node for Node-RED: Status green on message, red after timeout, shows date & time",
   "keywords": ["node-red", "activity", "status", "timer"],
-  "author": "phoenix42red",
+  "author": "phoenix42red & AI ChatGPT & AI Grok",
   "license": "MIT",
   "node-red": {
     "nodes": {
@@ -12,3 +12,4 @@
   },
   "dependencies": {}
 }
+
